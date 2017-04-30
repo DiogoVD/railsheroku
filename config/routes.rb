@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :usuarios
-  root 'usuarios#index'
+  #root 'usuarios#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
